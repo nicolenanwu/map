@@ -1,5 +1,6 @@
 # Boston Map that shows the bus stops on campus
 Description: this is the project I did where I pulled boston google map, and placed the bus stops on the MIT campus with markers. I also added in animation to show the movement of the bus.
+This is where the repo is: https://github.com/nicolenanwu/nicolenanwumap.github.io
 
 How to run:
 1. Go to the html file here: https://nicolenanwu.github.io/nicolenanwumap.github.io/map.html
